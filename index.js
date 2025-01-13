@@ -1,5 +1,5 @@
-const nineFiveOne = () => {
-    return val === 951;
+const nineFiveOne = (val) => {
+  return val === 951;
 };
 
 module.exports = nineFiveOne;
